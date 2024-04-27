@@ -1,0 +1,103 @@
+
+.lime{
+    width: 100%;
+    display: flex;
+    position: fixed;
+    margin-top: 40px;
+    background-color: white;
+    justify-content: space-around;
+}
+.nav{
+    display: flex;
+    width: 700px;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav a{
+    text-decoration: none;
+}
+.btn1{
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    border: none;
+    align-items: center;
+}
+.btn1:hover{
+    background-color: aqua;
+}
+.box1{
+    display: flex;
+    margin-top: 200px;
+    align-items: center;
+}
+.box2{
+    width: 350px;
+}
+.box3{
+    margin-left: 200px;
+}
+.color{
+    text-align: center;
+}
+.color1{
+    width: 300px;
+    height: 300px;
+    box-shadow: 1px 1px 1px 1px black;
+    margin-top: 100px;
+}
+.rer{
+    width: 70px;
+    height: 70px;
+    background-color: aqua;
+    margin-left: 110px;
+}
+.color3{
+    margin-top: 100px;
+}
+.rer1{
+    text-align: center;
+
+}
+.sect{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-top: 30px;
+}
+.sect1{
+    width: 280px;
+    height: 350px;
+}
+.text{
+    text-align: center;
+}
+.wear{
+    display: flex;
+    justify-content: space-around;
+}
+.wear1{
+    width: 340px;
+    height: 340px;
+    text-align: center;
+    font-size: 25px;
+    box-shadow: 0.5px 0.5px 2px 2px black;
+}
+.wear1:hover{
+    background-color: blue;
+    color: white;
+}
+.p1{
+    color: blue;
+}
+.p2{
+    color: chocolate;
+}
+.p3{
+    color: green;
+}
+.wear1 p:hover{
+    color: white;
+}
